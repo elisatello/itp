@@ -1,5 +1,6 @@
 #Documentation
 
+- I asked my brother for help since I was out of class, but I tried to do what I could by myself. 
 - defined function FtoC as c = (f - 32) 5/9 and return c 
 - created variable f = 99 
 - created variable c = FtoC(f)
@@ -9,4 +10,4 @@
 - added console.log(c) 
 - program runs. 
 - added c.toFixed(2) for cleaner look 
-- consulted older brother just in case, he recomended to add strings "ºF is " and "ºC" to console.log line for cleaner look and more fun :) 
+- consulted brother just in case, he recomended to add strings "ºF is " and "ºC" to console.log line for cleaner look and more fun :) 
