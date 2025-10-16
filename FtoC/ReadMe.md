@@ -1,6 +1,6 @@
 #Documentation
 
-- I asked my brother for help since I was out of class, but I tried to do what I could by myself. 
+- I asked my brother for help since I was out of class, but I tried to do what I could by myself. He suggested using function and helped me with the function syntax.
 - defined function FtoC as c = (f - 32) 5/9 and return c 
 - created variable f = 99 
 - created variable c = FtoC(f)
