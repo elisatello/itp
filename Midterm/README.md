@@ -11,14 +11,14 @@
 
 ### Phase 2: Translate to P5.js Sketch
 
-- I looked for the best function to use for my tile in the [reference section](https://p5js.org/reference/) of `p5.js. I found I needed to use the [`rect() function`](https://p5js.org/reference/p5/rect/).
+- I looked for the best function to use for my tile in the [reference section](https://p5js.org/reference/) of `p5.js`. I found I needed to use the [`rect() function`](https://p5js.org/reference/p5/rect/).
 
 - I tried figuring out a different way to draw my tile without using 10 `rect()` functions in class but couldnt figure it out. I literally couldnt think of a way to do it I didn't even write any code :((...
 
 - I tried again at home but I was still running into some trouble with just the logic of it without writing any code, so I decided to start from the beginning and go from there. 
 
-- I used [pixilart](https://www.pixilart.com/draw?gad_source=1&gad_campaignid=22681427954&gbraid=0AAAAADQsr1CfFXz2HwZwykNjCAY3WUcAy#) to draw my shape out in a 100 x 100 grid so I could get the x and y coordinates, as well as the height and width of the shapes, easier. 
-- I made a list of all my rectangles with the values I needed for the function. (x, y, w, h)
+- I used [pixilart](https://www.pixilart.com/draw?gad_source=1&gad_campaignid=22681427954&gbraid=0AAAAADQsr1CfFXz2HwZwykNjCAY3WUcAy#) to draw my shape out in a 100 x 100 grid so I could get the `x` and `y` coordinates, as well as the height and width of the shapes, easier. 
+- I made a list of all my rectangles with the values I needed for the function. (`x`, `y`, `w`, `h`)
 
 - ![valuetable](Value-List.jpg)
 
