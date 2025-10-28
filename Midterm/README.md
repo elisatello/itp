@@ -180,7 +180,7 @@
 
 - I read the instructions in the `README` document in the `06Midterm` folder in the `261fa25` repository.
 
-- After making sure I understood the instructions I tried just tiling the image with for statements. 
+- After making sure I understood the instructions I tried just tiling the image with for loops. 
 
 	- I changed the canvas size in the code to 500 x 500 and used the following code to make a loop to tile the image in a 5x5 grid:
 	
