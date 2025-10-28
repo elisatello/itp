@@ -258,4 +258,20 @@
 	 ```
 	- I test it and it runs ok. 
 	
+	- I didn't like the way the top and bottom lines fused and made wider lines in the middle of the grid so I changed a the `y` value in the `rect()` function for the top and bottom lines. Full final list with the functions: 
+	```javascript
+	
+		rect(0, 2, 100, 8);
+	    rect(0, 13, 8, 75);
+	    rect(0, 13, 75, 8);
+	    rect(68, 13, 8, 55);
+	    rect(46, 60, 30, 8);
+	    rect(46, 38, 8, 30);
+	    rect(24, 38, 30, 8);
+	    rect(24, 38, 8, 50);
+	    rect(24, 80, 77, 8);
+	    rect(0, 91, 100, 8);
+	
+	```
+	
 	- this was exhausting but very fun!! I don't know what I'm doing wrong when I was trying to make code blocks on this document :((. I ended up copying Prof. Rome's syntax and that worked... sort of. 
