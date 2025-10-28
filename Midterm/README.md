@@ -71,7 +71,7 @@
 
 	```
 	
-	- I kept getting `SyntaxError when I tested the code in `p5.js`, so I tried using the RGB values but it kept showing as greyscale still so I went back to read the reference and realized I was missing single quotes around the hex value of the color I wanted to use. So I changed the code to: `let c = color('#2f3699');`
+	- I kept getting `SyntaxError` when I tested the code in `p5.js`, so I tried using the RGB values but it kept showing as greyscale still so I went back to read the reference and realized I was missing single quotes around the hex value of the color I wanted to use. So I changed the code to: `let c = color('#2f3699');`
 	
 	- I tested it and it worked. But I didn't like the background color anymore so I changed it to 240 so it is lighter. 
 	
