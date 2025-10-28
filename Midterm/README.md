@@ -102,7 +102,7 @@
 	```
 
 ### Phase 3: Function
-- I read the Phase 3 instructions in the README` document in the `06Midterm` folder in the `261fa25` repository. 
+- I read the Phase 3 instructions in the `README` document in the `06Midterm` folder in the `261fa25` repository. 
 
 - after I read the instructions I used the example from line 69 in the same document as a guide to follow the instructions. 
 	
@@ -135,7 +135,7 @@
 	```
 
 
-	- I tested a few values in the drawObject functions to see the result and moved on to adding the push() and pop() functions as outlined in the instructions. Ended with the following code:
+	- I tested a few values in the `drawObject` functions to see the result and moved on to adding the `push()` and `pop() functions as outlined in the instructions. Ended with the following code:
 	
 	```javascript
 
@@ -178,7 +178,7 @@
 
 ### Phase 4: Tiling
 
-- I read the instructions in the README document in the midterm folder in the `261fa25` repository.
+- I read the instructions in the `README` document in the `06Midterm folder in the `261fa25` repository.
 
 - After making sure I understood the instructions I tried just tiling the image with for statements. 
 
@@ -198,7 +198,7 @@
 
 	```
 
-	- I used the for statements in the `codealong.js` files in `03Operators&Bindings` and `04ControlFlow` folders in the `261fa25` repository as guides to make sure I was nesting them correctly. 
+	- I used the for loops in the `codealong.js` files in `03Operators&Bindings` and `04ControlFlow` folders in the `261fa25` repository as guides to make sure I was nesting them correctly. 
 	
 	- I tested it with the code from phase 3 and it tiled perfectly, but I need the code to be adaptable to different grid sizes like in the example. 
 	
@@ -258,7 +258,7 @@
 	 ```
 	- I test it and it runs ok. 
 	
-	- I didn't like the way the top and bottom lines fused and made wider lines in the middle of the grid so I changed a the `y` value in the `rect()` function for the top and bottom lines. Full final list with the functions: 
+	- I didn't like the way the top and bottom lines fused and made wider lines in the middle of the grid so I changed the `y` value in the `rect()` function for the top and bottom lines so that there is a space between them. Full final list with the functions: 
 	```javascript
 	
 		rect(0, 2, 100, 8);
