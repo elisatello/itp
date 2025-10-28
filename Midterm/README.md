@@ -20,7 +20,7 @@
 - I used [pixilart](https://www.pixilart.com/draw?gad_source=1&gad_campaignid=22681427954&gbraid=0AAAAADQsr1CfFXz2HwZwykNjCAY3WUcAy#) to draw my shape out in a 100 x 100 grid so I could get the x and y coordinates, as well as the height and width of the shapes, easier. 
 - I made a list of all my rectangles with the values I needed for the function. (x, y, w, h)
 
-- ![valuetable](Value-List.heic)
+- ![valuetable](Value-List.jpg)
 
 - I wrote out the code to draw my shape in `p5.js`:
 	- starting with:
@@ -262,7 +262,7 @@
 	```javascript
 	
 		rect(0, 2, 100, 8);
-	    rect(0, 13, 8, 75);
+		rect(0, 13, 8, 75);
 	    rect(0, 13, 75, 8);
 	    rect(68, 13, 8, 55);
 	    rect(46, 60, 30, 8);
